@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "dhammadocoin"
-    },
-    "record": {
-        "CNAME": "dhammadocoin.github.io"
-    }
+  "owner": {
+    "username": "dhammadocoin"
+  },
+  "records": {
+    "CNAME": "dhammadocoin.github.io"
+  }
 }
